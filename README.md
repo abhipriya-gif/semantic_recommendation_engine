@@ -36,6 +36,7 @@ There are 2 main endpoints i this project:
     "prompt": "Best places to eat with friends"
 
   }
+  
    Return format: list
    [
     "Energy Addaa",
