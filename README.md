@@ -34,6 +34,15 @@ There are 2 main endpoints i this project:
    sample format:
    {
     "prompt": "Best places to eat with friends"
+
   }
+   Return format: list
+   [
+    "Energy Addaa",
+    "C Corner",
+    "Chutney Chang",
+    "Chill Out",
+    "Thamboola"
+]
    
    
