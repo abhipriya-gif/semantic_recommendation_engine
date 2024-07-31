@@ -33,9 +33,7 @@ There are 2 main endpoints i this project:
    Body: json
    sample format:
    {
-    "prompt": "Best places to eat with friends"
-
-     }
+    "prompt": "Best places to eat with friends"}
   
       Return format: list
       [
