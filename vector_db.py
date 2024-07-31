@@ -1,7 +1,9 @@
 from pinecone import Pinecone
+import os
+api_key = os.getenv('pinecone_api_key')
 
 def connect_to_vector_db():
-  pc = Pinecone(api_key="5e6a8457-bac4-4e49-88a0-c7fad19a9f13")
+  pc = Pinecone(api_key=api_key)
   index_name = "cafe-reviews"
   index = pc.Index(index_name)
   return index
