@@ -44,7 +44,7 @@ There are 2 main endpoints i this project:
        "Thamboola"
    ]
 
-#Dataset used
+# Dataset used
 
 Bangalore zomato review:  https://www.kaggle.com/datasets/himanshupoddar/zomato-bangalore-restaurants
    
