@@ -43,5 +43,8 @@ There are 2 main endpoints i this project:
        "Chill Out",
        "Thamboola"
    ]
-      
+
+#Dataset used
+
+Bangalore zomato review:  https://www.kaggle.com/datasets/himanshupoddar/zomato-bangalore-restaurants
    
